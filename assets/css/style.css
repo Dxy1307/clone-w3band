@@ -147,7 +147,7 @@ li {
     position: relative;
     margin-top: 45.6px;
     padding-top: 50%; /* Phần padding sẽ có giá trị bằng một nửa chiều ngang (width) */
-    background: url(/assets/img/Slider/chicago.jpg) top center;
+    background: url(/clone-w3band/assets/img/Slider/chicago.jpg) top center;
     background-repeat: no-repeat;
     background-clip: padding-box;
     background-size: cover;
